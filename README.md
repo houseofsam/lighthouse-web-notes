@@ -63,4 +63,28 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
     8. [Vim]()
     9. Pair Programming #2 - Object Property Value Swap
     10. Stretch - Pythagorean using Map()
-
+  * [Day 5](Week_1/Day_5)
+    1. Music Library Object Cardio w/ Methods & 'this'
+    2. Arrow functions and 'this'
+    3. Intro to Recursion
+  *[Weekend](Week_1/We)
+    1. Intro to Modules / Module.exports / require
+    2. Packages & npm & package.json
+    3. Automated testing
+        * Unit vs. Integration vs. Functional 
+        * Behaviour Driven Development
+        * Happy Path vs. Sad Path Testing & Edge Cases
+    4. Intro to Unit Testing
+        * Mocha & Chai
+        * Palindromes
+        * Should I Buy This Car
+        * Name Formatter
+    5. Plagiarism & Tech Interview Info
+    6. Stretch Readings from the Week
+        * More on objects and primitives
+        * Closures & Lexical Scoping (Review)
+          * Immediately-invoked Function Expression (IIFE) - Limitations?
+* [Week 2](Week_2)
+  * [Day 1](Week_2/Day_1) - [Lotide Due]
+    1. Lotide Refactor
+  
