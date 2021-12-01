@@ -87,4 +87,21 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
 * [Week 2](Week_2)
   * [Day 1](Week_2/Day_1) - [Lotide Due]
     1. Lotide Refactor
-  
+    2. Object Shorthand in ES6
+    3. Publishing Lotide to npm
+    4. Kata - TitleCase
+    5. Intro to Async Control Flow
+        * setTimeout Intro
+  * [Day 2](Week_2/Day_2)
+    1. process.stdout.write (same-line) vs. console.log
+    2. Console printing animations
+    3. Spinner
+    4. Timer
+    5. Event Handling and User Input
+        * stdin / .on()
+        * Fun Profile Generator (readline)
+    6. Asynchronous Return Values
+        * Using a callback function (2nd param) instead of a return for results
+    7. Pair Programming #3 - There is No Spoon (Array Transpose)
+    8. Computer Networking
+        * TCP & Intro to net
