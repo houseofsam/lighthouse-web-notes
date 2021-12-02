@@ -105,3 +105,15 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
     7. Pair Programming #3 - There is No Spoon (Array Transpose)
     8. Computer Networking
         * TCP & Intro to net
+  * [Day 3](Week_2/Day_3)
+    1. Snake Game
+        * Client Setup
+        * Setting Initials by writing to server
+        * Move commands + stdin setup
+        * Sending messages to other users in server
+        * Modularizing code in play.js()
+    2. Intro to HTTP
+        * How HTTP uses TCP
+    3. Using node 'request' library
+    4. Page downloader w/ 'request library and fs.writeFile
+    5. Pair Programming #4 - Word Search
