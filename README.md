@@ -23,7 +23,7 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
     1. [Lecture 1]()
     2. Minimum Values
     3. Joining concepts (Arrays)
-    4. [Function Best Practices](Weel_1/Day_2)
+    4. [Function Best Practices](Week_1/Day_2)
         * Dice Roller
     5. Scope
     6. Debugging and Error Messages
@@ -117,3 +117,27 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
     3. Using node 'request' library
     4. Page downloader w/ 'request library and fs.writeFile
     5. Pair Programming #4 - Word Search
+  * [Day 4](Week_2/Day_4)
+    1. JSON
+    2. API Intro
+    3. Cats as a Service (API & Test)
+    4. ISS Spotter (Multiple APIs)
+        * Method 1 - Nested Callbacks
+        * Method 2 - Promises (request-promise-native)
+    5. Creating Promises
+    6. Kata: findFriend
+  * [Day 5](Week_2/Day_5)
+    1. Intro to OOP
+    2. To-Do List
+    3. OO Classless Method --> Define object in function with relevant property values & methods
+    4. Acknowledging that Prototypes will be a Knowledge Gap in Favour of Classes
+    5. Classes, Instances, Constructors
+    6. Inheritance
+    7. Method Overriding ('super')
+    8. Getters and Setters to Compute values on the fly and validate data before assigning to property
+    9. OOP Best Practices
+        * Abstraction
+        * Private vs. Private properties / Not accessing properties directly / '_' prop naming convention
+        * Single Responsibility Principle 
+        * Using Inheritance to reduce duplicate code and share behaviour between classes 
+    10. LightCoin Crypto App
