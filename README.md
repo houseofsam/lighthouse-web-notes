@@ -127,16 +127,19 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
     5. Creating Promises
     6. Kata: findFriend
   * [Day 5](Week_2/Day_5)
-    1. Intro to OOP
-    2. To-Do List
-    3. OO Classless Method --> Define object in function with relevant property values & methods
+    1. Intro to OOP/OO Software Dev Paradigm vs. F.P.
+        * Organization, Reusability, Modularity
+    2. To-Do List (classless)
+    3. OO Classless Method --> Define/return object in function with relevant property values & methods
     4. Acknowledging that Prototypes will be a Knowledge Gap in Favour of Classes
-    5. Classes, Instances, Constructors
+    5. Classes, Instances, Constructors (Classes = blueprints to create Objects) [Pizza]
+        * 'new' keyword
     6. Inheritance
-    7. Method Overriding ('super')
+    7. Method Overriding ('super') [Person, Student, Mentor LHL Classes]
     8. Getters and Setters to Compute values on the fly and validate data before assigning to property
+        * Accessed properties as if they are value properties instead of method properties (e.g. pizza.price vs pizza.getPrice())
     9. OOP Best Practices
-        * Abstraction
+        * Abstraction (Hiding inner workings of obj in favour or exposing simple interface to obj)
         * Private vs. Private properties / Not accessing properties directly / '_' prop naming convention
         * Single Responsibility Principle 
         * Using Inheritance to reduce duplicate code and share behaviour between classes 
