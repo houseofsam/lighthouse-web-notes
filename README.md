@@ -144,3 +144,16 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
         * Single Responsibility Principle 
         * Using Inheritance to reduce duplicate code and share behaviour between classes 
     10. LightCoin Crypto App
+  * [Weekend](Week_2/We)
+    1. [Video on how JS Actually Works (Callbacks, Call Stack, Event Queue, Event Loop, Etc.)](https://www.youtube.com/watch?v=6MXRNXXgP_0)
+    2. Promises (Refresher) - Udacity Intro Vids 
+    3. Clean Code
+        * [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
+        * [15 Best Practices for Writing Readable Code](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
+    4. [Command Line cURL](http://www.thegeekstuff.com/2012/04/curl-examples/) = command line tool and library for transferring data with URLs
+    5. [Character Encoding](https://www.youtube.com/watch?v=MijmeoH9LT4) (ASCII --> UTF-8 and its importance)
+    6. [Domain Name System](https://www.youtube.com/watch?v=72snZctFFtA)
+        * Root Servers --> Top Level Domain Name Servers --> Authoratative Name Servers --> Resolving Server
+        * Relevance of registry/registrar 
+    7. [HTTP Server Tutorial](https://www.guru99.com/node-js-create-server-get-data.html)
+    8. [Express Tutorial](https://dzone.com/articles/watch-a-writer-learn-nodejs-part-1)
