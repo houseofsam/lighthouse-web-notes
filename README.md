@@ -157,3 +157,16 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
         * Relevance of registry/registrar 
     7. [HTTP Server Tutorial](https://www.guru99.com/node-js-create-server-get-data.html)
     8. [Express Tutorial](https://dzone.com/articles/watch-a-writer-learn-nodejs-part-1)
+  * [Week 3](Week_3)
+    1. [Day 1](Week_3/Day_1)
+        * Building a web server with HTTP
+        * Building a web server with Express
+        * TinyApp project setup 
+        * CRUD & HTTP
+        * TinyApp (Template Engine & URL Shortening)
+    2. [Day 2](Week_3/Day_2)
+        * Nodemon
+        * TinyApp (Deleting and Updating URLS)
+        * Git Branches
+        * Cookies and Cookies in Express
+        * TinyApp Cookies Implementation using git branch
