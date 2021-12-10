@@ -170,3 +170,19 @@ This repository contains all of the notes taken by [Sameer](https://github.com/h
         * Git Branches
         * Cookies and Cookies in Express
         * TinyApp Cookies Implementation using git branch
+    3. [Day 3](Week_3/Day_3)
+        * TinyApp
+          * Registration & Edge Cases
+          * Login page / Login Route Refactoring
+          * Basic Permission Features (URL Ownership and Actions)
+    4. [Day 4](Week_3/Day_4)
+        * TinyApp (Cookies, Sessions, Securely Storing Passwords, Refactoring/Helper functions, Unit Test)
+        * REST (Popular convention for structuring routes in web applications)
+          * API
+          * CRUD --> BREAD
+          * Resource Identifier
+          * Representation
+          * Basic Routing Conventions
+    5. [Day 5](Week_3/Day_5)
+        * Data Structures (Trees / Tree Traversal)
+    
